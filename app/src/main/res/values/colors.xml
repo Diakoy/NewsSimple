@@ -2,4 +2,8 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="light_soft_blue">#94cccb</color>
+    <color name="blue_surface">#E0CAEDEB</color>
+    <color name="secondary_blue">#2c444c</color>
+    <color name="fab_cafe">#F0B6A083</color>
 </resources>

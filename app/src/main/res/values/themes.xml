@@ -3,6 +3,14 @@
     <style name="Base.Theme.NewsSimple" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="android:windowTranslucentStatus">true</item>
+
+        <item name="android:colorPrimary">@color/light_soft_blue</item>
+        <item name="colorPrimaryVariant">@color/light_soft_blue</item>
+
+        <item name="colorSecondary">@color/secondary_blue</item>
+        <item name="colorSurface">@color/blue_surface</item>
+
     </style>
 
     <style name="Theme.NewsSimple" parent="Base.Theme.NewsSimple" />
